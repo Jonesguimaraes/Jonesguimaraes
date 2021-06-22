@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning Vanilla JS. 
 - 💞️ I’m looking to collaborate on projects for experience in Front-end.
 - 📫 Send hello to me in taltktojonesguimaraes@gmail.com
-- 👨‍💻 My Portfólio behance.net/jonesguimaraes
+- 👨‍💻 My Portfolio <a href="https://www.behance.net/jonesguimaraes" target="_blank">behance.net/jonesguimaraes</a>
+
 
